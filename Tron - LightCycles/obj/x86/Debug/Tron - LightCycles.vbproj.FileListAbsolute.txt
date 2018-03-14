@@ -1,0 +1,130 @@
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+C:\Documents and Settings\PC #6\my documents\visual studio 2010\Projects\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Form1.resources
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+N:\My Documents\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+E:\austin\corcework\Tron - LightCycles\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+E:\austin\corcework\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+E:\austin\corcework\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+E:\austin\corcework\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+E:\austin\corcework\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+E:\austin\corcework\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+E:\austin\corcework\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+E:\austin\corcework\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\austin\corcework\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\austin\corcework\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+E:\corcework 02032016\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+E:\corcework 02032016\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+E:\corcework 02032016\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Game.resources
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Menu1.resources
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Instructions.resources
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Objective.resources
+E:\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Settings.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Game.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Menu1.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Instructions.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Objective.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Settings.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Pause.resources
+E:\austin\corcework 02032016\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbprojResolveAssemblyReference.cache
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Pause.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Game.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Menu1.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Instructions.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Objective.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Settings.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Pause.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Game.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Menu1.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Instructions.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Objective.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Settings.resources
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+C:\Users\Austin's School Comp\Documents\school\year 12\cs\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.PausedSettings.resources
+F:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.PausedSettings.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Pause.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Game.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Menu1.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Instructions.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Objective.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.PausedSettings.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Settings.resources
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+E:\austin\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe.manifest
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.application
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.exe
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.pdb
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\bin\Debug\Tron - LightCycles.xml
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Pause.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Game.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Menu1.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Instructions.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Objective.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Resources.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.PausedSettings.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\WindowsApplication1.Settings.resources
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.vbproj.GenerateResource.Cache
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe.manifest
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.application
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.exe
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.xml
+B:\Documents\School\Year 13\CS\corcework CURRENT\corcework CURRENT\Tron\Tron - LightCycles\obj\x86\Debug\Tron - LightCycles.pdb
